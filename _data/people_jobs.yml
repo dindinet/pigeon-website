@@ -1,0 +1,8 @@
+- name: Dave
+  job: Programmer
+- name: Aurora
+  job: marketing
+- name: Jill
+  job: accounts
+- name: Nick
+  job: sales
