@@ -5,7 +5,7 @@ description: How does friendship play a role in your health?
 categories:
   - friendship
   - health
-  - Latest
+  - latest
 image: 'https://source.unsplash.com/collection/375719/2000x1322?a=.png'
 author_staff_member: tom
 ---
