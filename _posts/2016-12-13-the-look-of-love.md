@@ -3,7 +3,7 @@ title: The Look of Love
 date: 2016-12-13 00:00:00
 description:
 categories:
-  - latest
+  - Latest
 image:
 author_staff_member:
 ---
