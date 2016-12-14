@@ -23,7 +23,7 @@ bottom_image: https://source.unsplash.com/S_VbdMTsdiA/2000x1322?a=.png
     {% for post in site.categories.latest %}
       <li>
         <div class="square-image" style="background-image: url({{ post.image }})"></div>
-	<div class="post-content">{{ post.excerpt }}</div>
+	<h2 class="post-title">{{ post.title }}</h2>
 	<div class="button"><a href="{% include relative-src.html src=post.url %}">Read More</a></div>
       </li>
     {% endfor %}		
