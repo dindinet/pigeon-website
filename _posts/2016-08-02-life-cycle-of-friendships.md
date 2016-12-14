@@ -5,7 +5,8 @@ description: How do friendships develop?
 categories:
   - friendship
   - latest
-image: 'https://source.unsplash.com/collection/375719/2000x1322?a=.png'
+image: //lh3.googleusercontent.com/-8QHcqGf9N6yNrTlCxX2M7WVObjnqMKcavKKCtV3PBSJK560Xe2N3sX7gES7WPFPgOLefBYfSrky6g=w1100-rj-e30
+fp-image: //lh3.googleusercontent.com/-8QHcqGf9N6yNrTlCxX2M7WVObjnqMKcavKKCtV3PBSJK560Xe2N3sX7gES7WPFPgOLefBYfSrky6g=w240-rj-e30
 author_staff_member: anna
 ---
 
