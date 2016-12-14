@@ -6,7 +6,8 @@ categories:
   - friendship
   - health
   - latest
-image: 'https://source.unsplash.com/collection/375719/2000x1322?a=.png'
+image: 'https://lh3.googleusercontent.com/1cW8UZ6eG0BoBWOoXcJxjB6yOBNIQlR-KfBBGm__Dup0yDOrMTLNMK-YVaOK8RbTG68uzXiBsMCSIjk=w1100-rj-e30'
+fp-image: https://lh3.googleusercontent.com/1cW8UZ6eG0BoBWOoXcJxjB6yOBNIQlR-KfBBGm__Dup0yDOrMTLNMK-YVaOK8RbTG68uzXiBsMCSIjk=w250-rj-e30
 author_staff_member: tom
 ---
 
