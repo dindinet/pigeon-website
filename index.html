@@ -20,14 +20,14 @@ bottom_image: https://source.unsplash.com/S_VbdMTsdiA/2000x1322?a=.png
     <section class="info">
      <div class="container flex">
       {% for post in site.categories.Latest %}
-      <div class="blog-post">
+      <li class="blog-post">
 	     	<h2><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h2>
 	        {% include post-title.html post=post %}
 		    <div class="post-content">
 			  {{ post.excerpt }}
 			  <div class="button"><a href="{% include relative-src.html src=post.url %}">Read More</a></div>
 		    </div>
-	  </div>
+	  </li>
      {% endfor %}
      </div>
     </section>
