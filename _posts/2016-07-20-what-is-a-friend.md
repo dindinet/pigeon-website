@@ -1,14 +1,16 @@
 ---
 title: What is a friend?
-date: 2016-07-20
+date: 2016-07-20 00:00:00
 description: Exploring the mechanics of friendship
 categories:
   - friends
   - latest
-image: //lh3.googleusercontent.com/-zOES0zZVpWQ/WB4UGBgw1uI/AAAAAAAAQE0/-Rn1A_UWG_AUYquPiznPTIf6S2LV42cUACJoC/s0-p-rj-e30/IMG_20161105_153249931.jpg
-fp-image: //lh3.googleusercontent.com/-zOES0zZVpWQ/WB4UGBgw1uI/AAAAAAAAQE0/-Rn1A_UWG_AUYquPiznPTIf6S2LV42cUACJoC/s240-p-rj-e30/IMG_20161105_153249931.jpg
-author_staff_member: anna
+image: 'https://lh3.googleusercontent.com/gBDn_sb-lcCq7Ja5Bo2q5qder8cy212OP9DUJLbYxCiKdcPE8QHhsXcPtezFyziLjf9itxJAkiOPLmM=w1680-h1050-rw-no'
+fp-image: 'https://lh3.googleusercontent.com/gBDn_sb-lcCq7Ja5Bo2q5qder8cy212OP9DUJLbYxCiKdcPE8QHhsXcPtezFyziLjf9itxJAkiOPLmM=w1680-h1050-rw-no'
+author_staff_member: tom
 ---
+
+
 Friendship is a relationship of mutual affection between people. Friendship is a stronger form of interpersonal bond than an association. Friendship has been studied in academic fields such as sociology, social psychology, anthropology, and philosophy. Various academic theories of friendship have been proposed, including social exchange theory, equity theory, relational dialectics, and attachment styles. A World Happiness Database study found that people with close friendships are happier.
 
 ![Checkmate](https://source.unsplash.com/random/1500x1000)
