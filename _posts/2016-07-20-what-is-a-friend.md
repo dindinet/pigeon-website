@@ -5,7 +5,7 @@ description: Exploring the mechanics of friendship
 categories:
   - friends
   - latest
-image: 'https://lh3.googleusercontent.com/gBDn_sb-lcCq7Ja5Bo2q5qder8cy212OP9DUJLbYxCiKdcPE8QHhsXcPtezFyziLjf9itxJAkiOPLmM=w1680-h1050-rw-no'
+image: /uploads/CultDind.jpg
 fp-image: 'https://lh3.googleusercontent.com/gBDn_sb-lcCq7Ja5Bo2q5qder8cy212OP9DUJLbYxCiKdcPE8QHhsXcPtezFyziLjf9itxJAkiOPLmM=w1680-h1050-rw-no'
 author_staff_member: tom
 ---
@@ -21,4 +21,4 @@ Although there are many forms of friendship, some of which may vary from place t
 
 While there is no practical limit on what types of people can form a friendship, friends tend to share common backgrounds, occupations, or interests and have similar demographics.
 
-![Raspberries](https://source.unsplash.com/random/1500x1001)
+![Raspberries](/uploads/versions/CultDind---x0-40-600-400-1500-1001x---.jpg)
