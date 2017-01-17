@@ -23,7 +23,7 @@ While there is no practical limit on what types of people can form a friendship,
 
 <img src="https://res.cloudinary.com/maxgoldhouse/image/upload/w_auto/1390/9i.jpg" sizes="(max-width: 320px) 100vw,(max-width: 800px) 60vm, (max-width: 900px) 40vw, 750px" alt="should be responsively sized"/>
 
-## Another Image for your Delictification and Enjoyment
+## Another Image
 
 <img src="https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg"
      srcset="https://res.cloudinary.com/maxgoldhouse/image/upload/w_750/1390/9i.jpg?l 1024w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_640/1390/9i.jpg?m 640w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg?s 320w"
