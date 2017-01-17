@@ -26,5 +26,5 @@ While there is no practical limit on what types of people can form a friendship,
 ## Another Image for your Delictification and Enjoyment
 
 <img src="https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg"
-     srcset="https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg?l 1024w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg?m 640w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg?s 320w"
+     srcset="https://res.cloudinary.com/maxgoldhouse/image/upload/w_750/1390/9i.jpg?l 1024w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_640/1390/9i.jpg?m 640w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg?s 320w"
           alt="A rad wolf">
