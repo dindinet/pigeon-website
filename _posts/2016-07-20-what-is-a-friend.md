@@ -1,15 +1,17 @@
 ---
 title: What is a friend?
-date: 2016-07-20
+date: 2016-07-20 00:00:00
 description: Exploring the mechanics of friendship
 categories:
   - friends
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: anna
+  - latest
+image: /uploads/CultDind.jpg
+fp-image: 'https://lh3.googleusercontent.com/gBDn_sb-lcCq7Ja5Bo2q5qder8cy212OP9DUJLbYxCiKdcPE8QHhsXcPtezFyziLjf9itxJAkiOPLmM=w1680-h1050-rw-no'
+author_staff_member: tom
 ---
-Friendship is a relationship of mutual affection between people. Friendship is a stronger form of interpersonal bond than an association. Friendship has been studied in academic fields such as sociology, social psychology, anthropology, and philosophy. Various academic theories of friendship have been proposed, including social exchange theory, equity theory, relational dialectics, and attachment styles. A World Happiness Database study found that people with close friendships are happier.
 
-![Checkmate](https://source.unsplash.com/random/1500x1000)
+
+Friendship is a relationship of mutual affection between people. Friendship is a stronger form of interpersonal bond than an association. Friendship has been studied in academic fields such as sociology, social psychology, anthropology, and philosophy. Various academic theories of friendship have been proposed, including social exchange theory, equity theory, relational dialectics, and attachment styles. A World Happiness Database study found that people with close friendships are happier.
 
 ## Forms of friendship
 
@@ -17,4 +19,10 @@ Although there are many forms of friendship, some of which may vary from place t
 
 While there is no practical limit on what types of people can form a friendship, friends tend to share common backgrounds, occupations, or interests and have similar demographics.
 
-![Raspberries](https://source.unsplash.com/random/1500x1001)
+<img src="https://4.bp.blogspot.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s0-e30/VP%2BFunnel%2BBlog.jpg" sizes="(max-width: 320px) 100vw, (max-width: 1600px) 60vw" alt="should be responsively sized"/>
+
+## Another Image To Show the People
+
+<img src="https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg"
+     srcset="https://res.cloudinary.com/maxgoldhouse/image/upload/w_750/1390/9i.jpg?l 1024w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_640/1390/9i.jpg?m 640w, https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg?s 320w"
+          alt="A rad wolf">
