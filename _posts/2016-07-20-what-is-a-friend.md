@@ -26,3 +26,6 @@ While there is no practical limit on what types of people can form a friendship,
 ## Another Image To Show the People
 
 ![A rad wolf](https://res.cloudinary.com/maxgoldhouse/image/upload/w_750/1390/9i.jpg)
+
+
+{% include gslides.html slide_id="1KyXp3XA18i8eQ1abk4Ds1arlxmFI7JTDof50ZurUDMc" %}
