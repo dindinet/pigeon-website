@@ -17,12 +17,12 @@ Friendship is a relationship of mutual affection between people. Friendship is a
 
 Although there are many forms of friendship, some of which may vary from place to place, certain characteristics are present in many types of bond. Such characteristics include affection, sympathy, empathy, honesty, altruism, mutual understanding, and compassion, enjoyment of each other's company, trust, and the ability to be oneself, express one's feelings, and make mistakes without fear of judgment from the friend.
 
-<img alt="" src="https://lh3.googleusercontent.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s400-e30/VP%2BFunnel%2BBlog.jpg" style="float:right; height:225px; margin:20px; width:400px" />
+<img alt="" src="https://lh3.googleusercontent.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s400-e30/VP%2BFunnel%2BBlog.jpg" style="float:right; margin:20px; width:400px" />
 
 While there is no practical limit on what types of people can form a friendship, friends tend to share common backgrounds, occupations, or interests and have similar demographics.
 
-![should be responsively sized](https://lh3.googleusercontent.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s400-e30/VP%2BFunnel%2BBlog.jpg)
+![should be responsively sized](https://lh3.googleusercontent.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s1100-e30/VP%2BFunnel%2BBlog.jpg)
 
 ## Another Image To Show the People
 
-![A rad wolf](https://res.cloudinary.com/maxgoldhouse/image/upload/w_320/1390/9i.jpg)
+![A rad wolf](https://res.cloudinary.com/maxgoldhouse/image/upload/w_1100/1390/9i.jpg)
