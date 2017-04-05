@@ -21,8 +21,8 @@ Although there are many forms of friendship, some of which may vary from place t
 
 While there is no practical limit on what types of people can form a friendship, friends tend to share common backgrounds, occupations, or interests and have similar demographics.
 
-![should be responsively sized](https://lh3.googleusercontent.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s1100-e30/VP%2BFunnel%2BBlog.jpg)
+![should be responsively sized](https://lh3.googleusercontent.com/-gs3YE-_r7dM/WHZvL_4_3_I/AAAAAAAAIAc/PhbX4f941QEcaIT7wJ5SXFB0B-j7KpDjwCLcB/s750-e30/VP%2BFunnel%2BBlog.jpg)
 
 ## Another Image To Show the People
 
-![A rad wolf](https://res.cloudinary.com/maxgoldhouse/image/upload/w_1100/1390/9i.jpg)
+![A rad wolf](https://res.cloudinary.com/maxgoldhouse/image/upload/w_750/1390/9i.jpg)
