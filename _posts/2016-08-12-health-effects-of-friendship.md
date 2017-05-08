@@ -7,12 +7,12 @@ categories:
   - health
   - latest
 image: 'https://lh3.googleusercontent.com/1cW8UZ6eG0BoBWOoXcJxjB6yOBNIQlR-KfBBGm__Dup0yDOrMTLNMK-YVaOK8RbTG68uzXiBsMCSIjk=w1100-rj-e30'
-fp-image: https://lh3.googleusercontent.com/1cW8UZ6eG0BoBWOoXcJxjB6yOBNIQlR-KfBBGm__Dup0yDOrMTLNMK-YVaOK8RbTG68uzXiBsMCSIjk=w250-rj-e30
+fp-image: 'https://lh3.googleusercontent.com/1cW8UZ6eG0BoBWOoXcJxjB6yOBNIQlR-KfBBGm__Dup0yDOrMTLNMK-YVaOK8RbTG68uzXiBsMCSIjk=w250-rj-e30'
 author_staff_member: tom
 ---
 
 
-Conventional wisdom suggests that good friendships enhance an individual's sense of happiness and overall well-being. Indeed, a number of studies have found that strong social supports improve a woman's prospects for good health and longevity. Conversely, loneliness and a lack of social supports have been linked to an increased risk of heart disease, viral infections, and cancer, as well as higher mortality rates overall. Two researchers have even termed friendship networks a "behavioral vaccine" that boosts both physical and mental health.
+Conventional wisdom suggests that good friendships enhance an individual's sense of happiness and overall well-being. Indeed, a number of studies have found that strong social supports improve a woman's prospects for good health and longevity. Conversely, loneliness and a lack of social supports have been linked to an increased risk of heart disease, viral infections, and cancer, as well as higher mortality rates overall. Two researchers have even termed friendship networks a "behavioral vaccine" that boosts both physical and mental health. Trust the tories on this one.
 
 ![Man](https://source.unsplash.com/random/1500x1000)
 
