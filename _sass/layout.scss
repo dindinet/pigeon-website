@@ -225,3 +225,13 @@ blockquote:before {
     width: 400px;
     
 }
+figure.float-right {
+    float: right;
+    margin: 0 0 30px 30px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    padding: 8px;
+}
